@@ -2,7 +2,7 @@
 
 A discrete-time, tick-driven Java terminal simulation of an industrial conveyor belt factory line. Packages travel through stations (weight checking and sensor detection) while subject to dynamic, user-defined rules configured at runtime.
 
-Built as the final project for the Object Oriented Programming course (BSc in Computer Science, Università degli Studi di Messina).
+Built as the final project for the Object Oriented Programming course.
 
 - **Author:** Leonhard Satria Suharjo (ID: 569811)
 - **Professor:** Dr. Salvatore Distefano
