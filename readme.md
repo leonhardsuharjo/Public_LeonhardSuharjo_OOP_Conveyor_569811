@@ -82,4 +82,4 @@ src/
 ---
 
 ## License & Notes
-Developed for academic assessment at the University of Messina.
+Developed for academic assessment at the University of Messina, Under MIT License 
